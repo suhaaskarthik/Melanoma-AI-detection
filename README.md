@@ -1,8 +1,5 @@
 # Melanoma-AI-detection
 Detects melanoma from a given picture of the lesion with 92% accuracy
--
--
--
-hackaton_proj file is the frontend of the project, done through tkinter
-cancer_detection_AI file is a colab file where the deep earning model is built and trained
-
+Creates one file (cancer_detection.ipynb) that creates a CNN using tensorflow transfer learning architecture
+meta-data ensemble file is built by using Kaggle metadata for the competition (https://www.kaggle.com/competitions/isic-2024-challenge)
+hack-proj.py file is built with frontend using python library tkinter, streamlit version is being built..
